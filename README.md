@@ -57,4 +57,8 @@ There is always room for improvement in data analysis and this is only possible 
 
 ## Repo Structure
 
+1. [Code Folder](https://github.com/LizK/EDA-Books/tree/master/Code)
+    
+    - [Cleaning Folder](https://github.com/LizK/EDA-Books/tree/master/Code/Clean)
+
 
